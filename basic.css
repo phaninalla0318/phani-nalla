@@ -1,0 +1,38 @@
+h1{
+    color: red;
+    border: dashed black;
+    font-style: italic;
+}
+.c{
+    background-color :black;
+    border: thick double #32a1ce;
+    display: block;
+    margin: 10pt auto; 
+    max-width: 100%;
+    
+}
+.a{
+    text-align: right;
+}
+h2{
+    color:red;
+}
+.v{
+    background-color :yellow;
+    border: thick double #32a1ce;
+    font-style: italic;
+
+}
+#e{
+    color: orangered;
+}
+
+.c{
+
+    background-color:black;
+}
+*{ background-color: ghostwhite;
+}
+
+
+  
